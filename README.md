@@ -67,7 +67,7 @@ This is a MERN stack job portal website where users can upload resumes, and empl
    Create a `.env` file in the `backend` directory with the following variables:
 
    ```env
-   PORT=5000
+   PORT=4000
    MONGO_URI=your-mongo-db-uri
    JWT_SECRET=your-jwt-secret
    ```
