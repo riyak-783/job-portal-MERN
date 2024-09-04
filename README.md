@@ -110,8 +110,7 @@ job-portal/
 ## Hosting
 
 - **Backend:** Hosted on Render at [your-backend-url]([https://your-backend-url](https://mern-job-portal-rzw0.onrender.com))
-- **Frontend:** Hosted on Netlify at [your-frontend-url]([https://your-frontend-url](https://jobportal-mern.netlify.app/))
-
+- **Frontend:** Hosted on Netlify at https://jobportal-mern.netlify.app/ 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
